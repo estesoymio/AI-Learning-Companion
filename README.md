@@ -12,7 +12,10 @@ The project is designed to evolve beyond a generic PDF chatbot into a chapter-aw
 
 ### Current Features
 
-* Upload educational PDFs
+* Upload multiple educational files (PDF, DOCX, PPTX, TXT, Markdown, and CSV)
+* List topics from document tables of contents, headings, and slide titles
+* Interactive two-sided flashcards with question and answer faces
+* Interactive quizzes with one question at a time, instant feedback, and scoring
 * Automatic document ingestion and processing
 * Text chunking and embedding generation
 * Semantic search using vector similarity
@@ -129,8 +132,8 @@ streamlit run app.py
 
 ## Example Workflow
 
-1. Upload a chapter PDF
-2. Generate embeddings
+1. Upload one or more learning files
+2. Choose all files or a specific file and prepare the learning material
 3. Ask questions about the content
 4. Receive contextual answers grounded in the document
 5. Generate quizzes and revision materials (upcoming)

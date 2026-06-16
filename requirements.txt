@@ -3,7 +3,10 @@ langchain
 langchain-community
 langchain-core
 langchain-groq
+groq
 langchain-openai
 faiss-cpu
 python-dotenv
 pymupdf
+python-docx
+python-pptx
