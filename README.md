@@ -80,14 +80,6 @@ project/
 │
 ├── app.py
 ├── requirements.txt
-├── data/
-├── vectorstore/
-├── utils/
-│   ├── loader.py
-│   ├── splitter.py
-│   ├── embeddings.py
-│   └── retrieval.py
-│
 └── README.md
 ```
 
