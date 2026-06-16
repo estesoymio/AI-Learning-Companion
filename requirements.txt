@@ -1,6 +1,3 @@
-streamlit
-langchain
-langchain-community
 langchain-core
 langchain-groq
 groq
@@ -10,3 +7,8 @@ python-dotenv
 pymupdf
 python-docx
 python-pptx
+streamlit==1.58.0
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-openai==0.3.28
+faiss-cpu==1.12.0
