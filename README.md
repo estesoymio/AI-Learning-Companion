@@ -92,10 +92,10 @@ git clone <repository-url>
 cd ai-learning-companion
 ```
 
-Create a virtual environment:
+Create a virtual environment using Python 3.14:
 
 ```bash
-python -m venv venv
+python3.14 -m venv venv
 ```
 
 Activate environment:
